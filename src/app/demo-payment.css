@@ -1,0 +1,369 @@
+/* A copyable companion to the provider-hosted test card form. */
+.demo-payment-guide {
+  outline-offset: 5px;
+  scroll-margin-top: 24px;
+}
+.demo-payment-intro {
+  max-width: 630px;
+  margin-bottom: 27px;
+}
+.demo-test-pill {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  color: #4d6740;
+  background: #e7edda;
+  border: 1px solid #cdd8bd;
+  border-radius: 30px;
+  padding: 5px 9px;
+  font-size: 9px;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  white-space: nowrap;
+}
+.demo-payment-intro h2 {
+  font-size: clamp(31px, 3.6vw, 43px);
+  line-height: 1.1;
+  margin: 14px 0;
+}
+.demo-payment-intro h2 em {
+  font-family: Georgia, serif;
+  color: #3d603e;
+  font-weight: 400;
+}
+.demo-payment-intro > p {
+  font-size: 13px;
+  color: var(--muted);
+  line-height: 1.8;
+}
+.demo-payment-layout {
+  display: grid;
+  grid-template-columns: 1.15fr 1fr;
+  gap: 30px;
+  align-items: start;
+}
+.demo-card-details {
+  border: 1px solid #cfd7bf;
+  background: #f0f2e7;
+  border-radius: 14px;
+  padding: 28px;
+  min-width: 0;
+}
+.demo-card-heading {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.demo-card-icon {
+  display: grid;
+  place-items: center;
+  width: 43px;
+  height: 43px;
+  border: 1px solid #cbd5b8;
+  border-radius: 10px;
+  background: #e5ebd3;
+  flex-shrink: 0;
+  color: #526f40;
+}
+.demo-card-heading > div {
+  flex: 1;
+  min-width: 0;
+}
+.demo-card-heading .eyebrow {
+  font-size: 8px;
+  color: #647553;
+}
+.demo-card-heading h3 {
+  font-size: 17px;
+  letter-spacing: -0.03em;
+  line-height: 1.25;
+  margin-top: 5px;
+}
+.demo-card-intro {
+  font-size: 12px;
+  color: #647158;
+  line-height: 1.85;
+  margin: 19px 0 23px;
+}
+.demo-card-fields {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px 17px;
+}
+.demo-card-field {
+  min-width: 0;
+}
+.demo-card-number {
+  grid-column: 1 / -1;
+}
+.demo-card-field dt {
+  font-size: 10px;
+  color: #617153;
+  margin-bottom: 6px;
+}
+.demo-card-field dd {
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 9px;
+  padding: 9px 10px;
+  border: 1px solid #d2dbc3;
+  border-radius: 8px;
+  background: #fffef9;
+  min-height: 56px;
+}
+.demo-card-field code {
+  font-family: ui-monospace, SFMono-Regular, Consolas, monospace;
+  font-size: 19px;
+  color: #2c4630;
+  white-space: nowrap;
+  user-select: all;
+  letter-spacing: -0.05em;
+}
+.demo-card-number code {
+  font-size: clamp(17px, 1.7vw, 23px);
+}
+.demo-card-field button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  min-height: 36px;
+  padding: 6px 8px;
+  font-size: 10px;
+  color: #436238;
+  background: #edf1e1;
+  border: 1px solid #d8e0c9;
+  border-radius: 6px;
+  flex-shrink: 0;
+}
+.demo-card-field button:hover {
+  background: #e0e9ca;
+}
+.demo-expiry-note {
+  font-size: 11px;
+  line-height: 1.8;
+  color: #6b785d;
+  margin-top: 17px;
+}
+.demo-copy-feedback {
+  min-height: 24px;
+  font-size: 11px;
+  color: #3f6339;
+  padding-top: 8px;
+}
+.demo-card-source {
+  font-size: 10px;
+  margin-top: 11px;
+}
+.demo-payment-steps {
+  padding: 7px 2px;
+  min-width: 0;
+}
+.demo-payment-steps > .eyebrow {
+  font-size: 9px;
+  color: #6b795f;
+}
+.demo-payment-steps ol {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 23px;
+  margin: 22px 0 25px;
+}
+.demo-payment-steps li {
+  display: flex;
+  gap: 13px;
+  align-items: start;
+}
+.demo-payment-steps li > span {
+  display: grid;
+  place-items: center;
+  width: 31px;
+  height: 31px;
+  flex-shrink: 0;
+  border: 1px solid #d2d9c8;
+  border-radius: 50%;
+  color: #6a8057;
+  font-size: 9px;
+  font-weight: 600;
+}
+.demo-payment-steps li strong {
+  font-size: 13px;
+  font-weight: 600;
+}
+.demo-payment-steps li p {
+  font-size: 12px;
+  color: var(--muted);
+  line-height: 1.8;
+  margin-top: 4px;
+}
+.demo-payment-steps li b {
+  font-weight: 550;
+  color: #4a6040;
+}
+.demo-open-paystack,
+.demo-check-payment {
+  width: 100%;
+  min-height: 44px;
+  font-size: 12px;
+  justify-content: center;
+}
+.demo-check-payment {
+  margin-top: 11px;
+}
+.demo-opened-note {
+  font-size: 11px;
+  color: #557044;
+  margin-top: 12px;
+  line-height: 1.8;
+}
+.demo-payment-note {
+  font-size: 10px;
+  color: var(--muted);
+  text-align: center;
+  line-height: 1.7;
+  margin-top: 12px;
+}
+.demo-order-summary {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  margin-top: 27px;
+  padding: 17px 20px;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: #fffefa;
+}
+.demo-order-summary > img,
+.demo-order-summary > .image-placeholder {
+  width: 48px;
+  height: 48px;
+  object-fit: cover;
+  border-radius: 6px;
+  flex-shrink: 0;
+}
+.demo-order-summary > div:not(.image-placeholder) {
+  flex: 1;
+  min-width: 0;
+}
+.demo-order-summary span {
+  display: block;
+  color: var(--muted);
+  font-size: 8px;
+  letter-spacing: 0.04em;
+}
+.demo-order-summary strong {
+  font-size: 13px;
+  font-weight: 600;
+  margin-top: 3px;
+  display: block;
+}
+.demo-order-summary > .text-link {
+  font-size: 11px;
+  flex-shrink: 0;
+}
+@media (max-width: 1050px) {
+  .demo-payment-layout {
+    gap: 23px;
+  }
+  .demo-card-details {
+    padding: 23px;
+  }
+  .demo-card-heading > .demo-test-pill {
+    display: none;
+  }
+  .demo-card-field:not(.demo-card-number) button > span {
+    display: none;
+  }
+  .demo-card-field:not(.demo-card-number) button {
+    min-width: 34px;
+  }
+}
+@media (max-width: 800px) {
+  .demo-payment-layout {
+    grid-template-columns: 1fr;
+    gap: 25px;
+  }
+  .demo-payment-intro {
+    margin-bottom: 21px;
+  }
+  .demo-card-number code {
+    font-size: 22px;
+  }
+  .demo-card-field button {
+    min-height: 44px;
+    min-width: 44px;
+  }
+  .demo-payment-steps {
+    padding: 0;
+  }
+  .demo-payment-steps ol {
+    gap: 21px;
+  }
+  .demo-card-heading h3 {
+    font-size: 18px;
+  }
+}
+@media (max-width: 480px) {
+  .demo-payment-intro h2 {
+    font-size: 35px;
+  }
+  .demo-payment-intro > p {
+    font-size: 12px;
+  }
+  .demo-card-details {
+    padding: 20px;
+  }
+  .demo-card-heading {
+    gap: 10px;
+  }
+  .demo-card-heading h3 {
+    font-size: 16px;
+  }
+  .demo-card-icon {
+    height: 38px;
+    width: 38px;
+  }
+  .demo-card-intro {
+    font-size: 11px;
+    margin-block: 17px 19px;
+  }
+  .demo-card-fields {
+    gap: 17px 13px;
+  }
+  .demo-card-field dd {
+    padding: 6px 8px;
+    gap: 5px;
+  }
+  .demo-card-number code {
+    font-size: 17px;
+  }
+  .demo-card-number button {
+    min-width: 44px;
+  }
+  .demo-card-number button span {
+    display: none;
+  }
+  .demo-expiry-note {
+    font-size: 10px;
+  }
+  .demo-card-source {
+    min-height: 40px;
+  }
+  .demo-order-summary {
+    padding: 14px;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+  .demo-order-summary > .text-link {
+    margin-left: 58px;
+    min-height: 38px;
+  }
+  .demo-order-summary strong {
+    font-size: 12px;
+  }
+}

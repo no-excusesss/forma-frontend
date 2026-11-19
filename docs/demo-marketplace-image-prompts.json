@@ -1,0 +1,80 @@
+{
+  "tool": "Built-in image_gen",
+  "assets": [
+    {
+      "key": "vase",
+      "publicPath": "/images/demo-marketplace/vase.webp",
+      "prompt": "Create one beautiful square 1024x1024 editorial product photograph for a fictional homewares demo marketplace. Subject: a single sculptural matte ivory ceramic vase, rounded body and narrow neck, 22 cm tall, no flowers, no extra vessels. Scene: warm limestone plinth against an ivory plaster wall, soft morning window light with a delicate leaf shadow, tasteful premium independent homeware styling. Three-quarter angle, entire vase visible, subject fills 65 percent of frame with generous crop-safe space, realistic ceramic texture and natural shadows, restrained cream and warm taupe palette. No text, labels, watermark, logos, collage or borders. This is a fictional demo product visualization."
+    },
+    {
+      "key": "boucle-chair",
+      "publicPath": "/images/demo-marketplace/boucle-chair.webp",
+      "prompt": "Create one beautiful square editorial product photograph for Sora Living, a fictional homewares demo marketplace store. Subject: one beautiful ivory boucle lounge accent chair with rounded cushions, softly curved back, visible solid walnut legs. No other furniture. Style: premium independent design catalogue photography, authentic material detail, realistic proportions. Set against warm ivory plaster and pale limestone or oak, soft morning light with subtle leafy shadows, refined cream/caramel/taupe palette. Three-quarter view, entire main product visible and filling about 65 percent of frame with crop-safe space; tasteful restrained setting. No people, text, watermark, branding, collage or borders. This is a fictional demo product visualization."
+    },
+    {
+      "key": "amber-pendant",
+      "publicPath": "/images/demo-marketplace/amber-pendant.webp",
+      "prompt": "Create one beautiful square editorial product photograph for Sora Living, a fictional homewares demo marketplace store. Subject: one elegant hanging pendant lamp with a large ribbed amber-glass dome shade and brass fitting, illuminated gently, clearly visible suspended by its cord. No other lamps. Style: premium independent design catalogue photography, authentic material detail, realistic proportions. Set against warm ivory plaster and pale limestone or oak, soft morning light with subtle leafy shadows, refined cream/caramel/taupe palette. Three-quarter view, entire main product visible and filling about 65 percent of frame with crop-safe space; tasteful restrained setting. No people, text, watermark, branding, collage or borders. This is a fictional demo product visualization."
+    },
+    {
+      "key": "woven-basket",
+      "publicPath": "/images/demo-marketplace/woven-basket.webp",
+      "prompt": "Create one beautiful square editorial product photograph for Sora Living, a fictional homewares demo marketplace store. Subject: one beautiful natural handwoven storage basket with two small loop handles, rounded open top, warm palm-fibre texture. Empty basket, no blankets or other products. Style: premium independent design catalogue photography, authentic material detail, realistic proportions. Set against warm ivory plaster and pale limestone or oak, soft morning light with subtle leafy shadows, refined cream/caramel/taupe palette. Three-quarter view, entire main product visible and filling about 65 percent of frame with crop-safe space; tasteful restrained setting. No people, text, watermark, branding, collage or borders. This is a fictional demo product visualization."
+    },
+    {
+      "key": "oak-coffee-table",
+      "publicPath": "/images/demo-marketplace/oak-coffee-table.webp",
+      "prompt": "Create one beautiful square 1024x1024 photorealistic editorial catalogue product photo for a fictional demo marketplace. Subject: one low oval solid oak coffee table, softly rounded edges and two sculptural broad pedestal legs, natural oak grain, no objects on its surface. Scene: warm cream plaster, limestone flooring, soft morning light and delicate leafy shadows. Show accurate natural materials and refined details, premium restrained independent-store styling, entire product visible and fills 60 to 70 percent of frame, crop-safe space around it, three-quarter angle, realistic soft shadows. No people, extra products, text, watermark, labels, branding, collage or borders. This is a fictional demo product visualization."
+    },
+    {
+      "key": "canvas-sneakers",
+      "publicPath": "/images/demo-marketplace/canvas-sneakers.webp",
+      "prompt": "Create one beautiful square 1024x1024 photorealistic editorial catalogue product photo for a fictional demo marketplace. Subject: a pair of pristine off-white canvas low-top lace-up sneakers with gum soles, three-quarter view, both shoes completely visible, no brand or logos. Scene: warm off-white seamless studio backdrop, pale beige platform, soft fashion studio light. Show accurate natural materials and refined details, premium restrained independent-store styling, entire product visible and fills 60 to 70 percent of frame, crop-safe space around it, three-quarter angle, realistic soft shadows. No people, extra products, text, watermark, labels, branding, collage or borders. This is a fictional demo product visualization."
+    },
+    {
+      "key": "tan-crossbody",
+      "publicPath": "/images/demo-marketplace/tan-crossbody.webp",
+      "prompt": "Create one beautiful square 1024x1024 photorealistic editorial catalogue product photo for a fictional demo marketplace. Subject: one structured caramel-tan leather crossbody handbag with rounded corners, a wide adjustable matching strap and a small brushed brass clasp, no brand or logos. Scene: pale sand pedestal and soft ivory background, sophisticated warm editorial fashion lighting. Show accurate natural materials and refined details, premium restrained independent-store styling, entire product visible and fills 60 to 70 percent of frame, crop-safe space around it, three-quarter angle, realistic soft shadows. No people, extra products, text, watermark, labels, branding, collage or borders. This is a fictional demo product visualization."
+    },
+    {
+      "key": "olive-overshirt",
+      "publicPath": "/images/demo-marketplace/olive-overshirt.webp",
+      "prompt": "Create one beautiful square 1024x1024 premium editorial fashion product photograph for Aster Lane, a fictional demo marketplace boutique. Subject: one olive-green cotton twill overshirt, unisex relaxed fit with two chest pockets and tonal buttons, carefully laid flat with both sleeves folded naturally, no mannequin or person. Warm pale sand studio setting with a subtle ivory backdrop, refined soft window light, natural soft shadows, close attention to fabric, leather or metal texture. Main product fills roughly 60 to 70 percent of frame, crop-safe clear margins, sophisticated independent boutique catalogue styling. No people, unrelated props, extra products, logos, text overlays, watermark, collage or borders. Fictional demo product visualization."
+    },
+    {
+      "key": "gold-hoops",
+      "publicPath": "/images/demo-marketplace/gold-hoops.webp",
+      "prompt": "Create one beautiful square 1024x1024 premium editorial fashion product photograph for Aster Lane, a fictional demo marketplace boutique. Subject: one matching pair of small chunky brushed gold hoop earrings, sculptural rounded silhouette, both earrings fully visible, arranged elegantly on a pale stone block, no other jewelry. Warm pale sand studio setting with a subtle ivory backdrop, refined soft window light, natural soft shadows, close attention to fabric, leather or metal texture. Main product fills roughly 60 to 70 percent of frame, crop-safe clear margins, sophisticated independent boutique catalogue styling. No people, unrelated props, extra products, logos, text overlays, watermark, collage or borders. Fictional demo product visualization."
+    },
+    {
+      "key": "leather-watch",
+      "publicPath": "/images/demo-marketplace/leather-watch.webp",
+      "prompt": "Create one beautiful square 1024x1024 premium editorial fashion product photograph for Aster Lane, a fictional demo marketplace boutique. Subject: one minimal wristwatch with a caramel brown leather strap, slender brushed brass case, plain warm ivory dial and delicate hour markers, realistic hands, no logo or readable lettering, laid diagonally with strap visible. Warm pale sand studio setting with a subtle ivory backdrop, refined soft window light, natural soft shadows, close attention to fabric, leather or metal texture. Main product fills roughly 60 to 70 percent of frame, crop-safe clear margins, sophisticated independent boutique catalogue styling. No people, unrelated props, extra products, logos, text overlays, watermark, collage or borders. Fictional demo product visualization."
+    },
+    {
+      "key": "studio-headphones",
+      "publicPath": "/images/demo-marketplace/studio-headphones.webp",
+      "prompt": "Create one beautiful square 1024x1024 photorealistic editorial product photograph for Fieldwork Supply, a fictional design-focused desk and tech demo marketplace store. Subject: one pair of premium matte charcoal wireless over-ear headphones, soft padded earcups and a clean sculptural headband, standing at a three-quarter angle; no brand or visible words. Scene: pale oak desk with a warm off-white plaster background, softly lit, gentle window shadows, calm premium workspace mood. Only the named product is shown, complete and fully in frame, fills about 65 percent with generous crop-safe margins. Realistic clean functional design, crisp material textures, subtle charcoal, forest-green and warm wood palette. No people, additional devices, product labels, logos, watermark, text overlays, collage or borders. Fictional demo product visualization."
+    },
+    {
+      "key": "forest-keyboard",
+      "publicPath": "/images/demo-marketplace/forest-keyboard.webp",
+      "prompt": "Create one beautiful square 1024x1024 photorealistic editorial product photograph for Fieldwork Supply, a fictional design-focused desk and tech demo marketplace store. Subject: one compact 65-percent mechanical desktop keyboard with a deep forest-green metal body, tasteful cream and olive keycaps with ordinary accurate key legends, no number pad, no brand; cable-free. Scene: pale oak desk with a warm off-white plaster background, softly lit, gentle window shadows, calm premium workspace mood. Only the named product is shown, complete and fully in frame, fills about 65 percent with generous crop-safe margins. Realistic clean functional design, crisp material textures, subtle charcoal, forest-green and warm wood palette. No people, additional devices, product labels, logos, watermark, text overlays, collage or borders. Fictional demo product visualization."
+    },
+    {
+      "key": "arc-desk-lamp",
+      "publicPath": "/images/demo-marketplace/arc-desk-lamp.webp",
+      "prompt": "Create one beautiful square 1024x1024 photorealistic editorial product photograph for Fieldwork Supply, a fictional design-focused desk and tech demo marketplace store. Subject: one elegant matte black task lamp with a gently arched adjustable arm, small rounded dome shade and thin circular base, warm soft light switched on; no brand. Scene: pale oak desk with a warm off-white plaster background, softly lit, gentle window shadows, calm premium workspace mood. Only the named product is shown, complete and fully in frame, fills about 65 percent with generous crop-safe margins. Realistic clean functional design, crisp material textures, subtle charcoal, forest-green and warm wood palette. No people, additional devices, product labels, logos, watermark, text overlays, collage or borders. Fictional demo product visualization."
+    },
+    {
+      "key": "walnut-laptop-stand",
+      "publicPath": "/images/demo-marketplace/walnut-laptop-stand.webp",
+      "prompt": "Create one beautiful square 1024x1024 photorealistic editorial product photograph for Fieldwork Supply, a fictional design-focused desk and tech demo marketplace store. Subject: one empty sculptural walnut laptop stand with an angled open platform and sturdy curved wood supports, beautiful visible walnut grain, no laptop or other device. Scene: pale oak desk with a warm off-white plaster background, soft natural window light and gentle shadows, calm premium workspace mood. The named product is the only hero, complete and fully in frame, fills about 65 percent with generous crop-safe margins. Realistic functional design, crisp material textures, restrained warm neutrals and forest-green accents. No people, labels, logos, watermark, text overlays, collage or borders. Fictional demo product visualization."
+    },
+    {
+      "key": "sand-wireless-mouse",
+      "publicPath": "/images/demo-marketplace/sand-wireless-mouse.webp",
+      "prompt": "Create one beautiful square 1024x1024 photorealistic editorial product photograph for Fieldwork Supply, a fictional design-focused desk and tech demo marketplace store. Subject: one refined sand-beige wireless computer mouse with a small brushed metal scroll wheel, clean ergonomic rounded shape, three-quarter view, no brand. Scene: pale oak desk with a warm off-white plaster background, soft natural window light and gentle shadows, calm premium workspace mood. The named product is the only hero, complete and fully in frame, fills about 65 percent with generous crop-safe margins. Realistic functional design, crisp material textures, restrained warm neutrals and forest-green accents. No people, labels, logos, watermark, text overlays, collage or borders. Fictional demo product visualization."
+    }
+  ]
+}
